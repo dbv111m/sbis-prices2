@@ -1,0 +1,14 @@
+.aider*
+.env
+old
+scraped_data.json
+combined_scraped_data.json
+enhanced_combined_scraped_data.json
+sbis_prices.json
+optimized_scraped_data.json
+nomenclature_prices_report.csv
+nomenclature_prices_report.xlsx
+enhanced_combined_scraped_data.json
+enhanced_combined_scraped_data.json
+enhanced_combined_scraped_data.json
+enhanced_combined_scraped_data.json
