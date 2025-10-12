@@ -1,0 +1,8102 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "3 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "3 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 500"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 500"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 000"
+    },
+    {
+      "nomenclature_code": "EDO_500_D",
+      "price": "4 500"
+    },
+    {
+      "nomenclature_code": "EOpEDOvn_D",
+      "price": "9 400"
+    },
+    {
+      "nomenclature_code": "EDO_3000_D",
+      "price": "22 200"
+    },
+    {
+      "nomenclature_code": "EDO_5000_D",
+      "price": "33 500"
+    },
+    {
+      "nomenclature_code": "form",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "EIS",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "M_Edo1",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "M_Edo_DTS",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000"
+    },
+    {
+      "nomenclature_code": "EDI_1K",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "EDI_3K",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "EDI_5K",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "EDI_10K",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000"
+    },
+    {
+      "nomenclature_code": "EDO_BP",
+      "price": "6 000"
+    },
+    {
+      "nomenclature_code": "format",
+      "price": "30 000"
+    },
+    {
+      "nomenclature_code": "Input_form",
+      "price": "100 000"
+    }
+  ]
+}

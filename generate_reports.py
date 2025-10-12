@@ -5,24 +5,16 @@ import os
 def generate_reports():
     # Загружаем данные из JSON файла
     try:
-        with open('enhanced_combined_scraped_data.json', 'r', encoding='utf-8') as f:
+        with open('optimized_scraped_data.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
     except FileNotFoundError:
-        print("Файл enhanced_combined_scraped_data.json не найден. Сначала запустите скрипт скрапинга.")
-        # Попробуем другие возможные файлы
-        try:
-            with open('optimized_scraped_data.json', 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            print("Используем файл optimized_scraped_data.json")
-        except FileNotFoundError:
-            print("Файл optimized_scraped_data.json также не найден.")
-            return
+        print("Файл optimized_scraped_data.json не найден. Сначала запустите скрипт скрапинга.")
+        return
 
     # Извлекаем уникальные номенклатуры из всех регионов
     all_nomenclatures = set()
     for region_data in data.values():
-        # В текущей структуре данных region_data - это словарь с ключом "nomenclature_data"
-        for item in region_data.get("nomenclature_data", []):
+        for item in region_data:
             all_nomenclatures.add(item["nomenclature_code"])
     
     all_nomenclatures = sorted(list(all_nomenclatures))
@@ -35,7 +27,7 @@ def generate_reports():
         for region_name, region_data in data.items():
             # Найти цену для данной номенклатуры в этом регионе
             price = "Нет данных"
-            for item in region_data.get("nomenclature_data", []):
+            for item in region_data:
                 if item["nomenclature_code"] == nomenclature:
                     price = item["price"]
                     break

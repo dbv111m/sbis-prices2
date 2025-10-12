@@ -58,7 +58,10 @@ def parse_nomenclature_prices(playwright):
     for i, region in enumerate(regions, 1):
         region_id = region["id"]
         region_name = region["name"]
-        url = f"https://saby.ru/tariffs?region={region_id}&tab=added"
+        # url = f"https://saby.ru/tariffs?region={region_id}&tab=added"
+        # url = f"https://saby.ru/tariffs?region={region_id}&tab=ereport"
+        # url = f"https://saby.ru/tariffs?region={region_id}&tab=edo"
+        url = f"https://saby.ru/tariffs?region={region_id}&tab=data_exchange"
         print(f"Обработка региона {i}/{total_regions}: {region_name}")
         try:
             page.goto(url)
