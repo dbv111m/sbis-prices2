@@ -13,6 +13,7 @@
 import argparse
 import json
 import random
+import re
 import sys
 import time
 
@@ -30,6 +31,22 @@ USER_AGENTS = [
 ]
 
 PRICE_SELECTOR = "span.billing-PriceList__priceButton"
+
+# Извлекает одним проходом: код номенклатуры, цену и текст карточки услуги
+# (в карточке — человекочитаемое название, которое чистится уже в Python)
+EXTRACT_JS = """
+() => {
+    const out = [];
+    for (const el of document.querySelectorAll('span.billing-PriceList__priceButton')) {
+        const code = el.getAttribute('nomenclaturecode');
+        if (!code) continue;
+        const card = el.closest('[class*="MobileService"]')
+                 || el.parentElement.closest('tr, li, [class*="row"], [class*="item"], [class*="product"]');
+        out.push({code: code, price: el.innerText.trim(), card: card ? card.innerText.slice(0, 300) : ''});
+    }
+    return out;
+}
+"""
 
 
 def parse_args():
@@ -90,10 +107,29 @@ def load_regions(path):
         return []
 
 
+def clean_service_name(card_text):
+    """Извлекает название услуги из текста карточки.
+
+    Берет первую строку с буквами (пропуская цены и маркеры списков)
+    и убирает хвосты вида "от 7 000" / "→ 9 000" / " 7 000 7 000".
+    """
+    for line in card_text.splitlines():
+        line = line.replace("\u00a0", " ").strip().lstrip("•·* ").strip()
+        if not line or not any(ch.isalpha() for ch in line):
+            continue
+        line = re.sub(r"\s*(от|→|-)\s*[\d\s]+$", "", line)
+        line = re.sub(r"\s+\d[\d\s]*$", "", line)
+        line = line.strip(" -–")
+        if line:
+            return line[:100]
+    return ""
+
+
 def scrape_region(page, url):
     """Собирает номенклатуры с ценами для одного региона.
 
-    Возвращает список записей {"nomenclature_code": ..., "price": ...}.
+    Возвращает список записей {"nomenclature_code": ..., "price": ..., "name": ...},
+    где name — название услуги с сайта (может быть пустым).
     Бросает исключение, если страница не загрузилась или данных нет.
     """
     page.goto(url, wait_until="domcontentloaded")
@@ -102,17 +138,19 @@ def scrape_region(page, url):
     # Небольшая пауза, чтобы динамический контент (цены) успел догрузиться
     page.wait_for_timeout(random.randint(1000, 3000))
 
+    raw_items = page.evaluate(EXTRACT_JS)
+
     nomenclature_data = []
     seen_codes = set()
-    for element in page.query_selector_all(PRICE_SELECTOR):
-        nomenclature_code = element.get_attribute("nomenclaturecode")
-        if not nomenclature_code or nomenclature_code in seen_codes:
+    for item in raw_items:
+        code = item["code"]
+        if code in seen_codes:
             continue
-        seen_codes.add(nomenclature_code)
-        price_text = (element.text_content() or "").strip()
+        seen_codes.add(code)
         nomenclature_data.append({
-            "nomenclature_code": nomenclature_code,
-            "price": price_text,
+            "nomenclature_code": code,
+            "price": item["price"].strip(),
+            "name": clean_service_name(item["card"]),
         })
 
     if not nomenclature_data:
