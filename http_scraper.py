@@ -18,6 +18,7 @@
 """
 
 import argparse
+import bisect
 import gzip
 import html as html_lib
 import json
@@ -59,6 +60,12 @@ USER_AGENT = (
 
 PRICE_BUTTON_RE = re.compile(
     r'<span[^>]*nomenclaturecode="([^"]+)"[^>]*>(.*?)</span>', re.DOTALL
+)
+# Заголовки услуг/пакетов разных видов разметки (таблицы, карточки, планы)
+TITLE_ELEMENT_RE = re.compile(
+    r'<div[^>]*class="[^"]*(?:table-title-header|title-sub|MobileService-header'
+    r'|multi-serviceTitle)[^"]*"[^>]*>(.*?)</div>',
+    re.DOTALL,
 )
 
 
@@ -158,16 +165,41 @@ def fetch_html(url, timeout):
         return raw.decode("utf-8", errors="replace")
 
 
+def clean_text(fragment):
+    """Убирает теги и HTML-сущности, схлопывает пробелы."""
+    text = html_lib.unescape(re.sub(r"<[^>]+>", " ", fragment))
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def parse_prices(page_html):
-    """Извлекает из HTML пары (код номенклатуры, цена), без повторов кода."""
+    """Извлекает из HTML пары (код номенклатуры, цена, название услуги).
+
+    Название — ближайший предшествующий кнопке заголовок (имя пакета/плана:
+    «одна точка продаж», «Легкий», «Бухгалтерия»...). Разметка заголовков
+    варьируется между блоками страницы, поэтому ищем несколько классов.
+    """
+    titles = [
+        (m.start(), clean_text(m.group(1)))
+        for m in TITLE_ELEMENT_RE.finditer(page_html)
+        if clean_text(m.group(1))
+    ]
+    title_positions = [pos for pos, _ in titles]
+
     items = []
     seen = set()
-    for code, inner in PRICE_BUTTON_RE.findall(page_html):
+    for match in PRICE_BUTTON_RE.finditer(page_html):
+        code = match.group(1)
         if code in seen:
             continue
         seen.add(code)
-        price = html_lib.unescape(re.sub(r"<[^>]+>", "", inner)).strip()
-        items.append({"nomenclature_code": code, "price": price, "name": ""})
+        idx = bisect.bisect_right(title_positions, match.start()) - 1
+        name = titles[idx][1] if idx >= 0 else ""
+        items.append({
+            "nomenclature_code": code,
+            "price": clean_text(match.group(2)),
+            "name": name,
+        })
+
     return items
 
 

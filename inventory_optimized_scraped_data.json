@@ -1,0 +1,4682 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "3 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "3 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Stock",
+      "price": "11 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Opt",
+      "price": "18 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Stock_Prof",
+      "price": "37 000",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "Storekeeper",
+      "price": "2 500",
+      "name": "один склад"
+    },
+    {
+      "nomenclature_code": "EDO_Base_D",
+      "price": "2 300",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EDI_200",
+      "price": "1 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "Account_Base",
+      "price": "14 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_C",
+      "price": "12 000",
+      "name": "Подключите расширения"
+    },
+    {
+      "nomenclature_code": "recognize_250",
+      "price": "1 900",
+      "name": "Подключите расширения"
+    }
+  ]
+}

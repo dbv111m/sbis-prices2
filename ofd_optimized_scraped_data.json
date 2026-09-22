@@ -1,0 +1,4232 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "OFD_cash",
+      "price": "1",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_day",
+      "price": "22",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY15",
+      "price": "5 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "OFD_KEY36",
+      "price": "12 000",
+      "name": "Цена 1 ККТ"
+    },
+    {
+      "nomenclature_code": "SMS100",
+      "price": "900",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt",
+      "price": "3 500",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt2",
+      "price": "6 800",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "SMSExt3",
+      "price": "120 000",
+      "name": "Смс по чекам"
+    },
+    {
+      "nomenclature_code": "Int_ofd1C",
+      "price": "2 500",
+      "name": "Смс по чекам"
+    }
+  ]
+}

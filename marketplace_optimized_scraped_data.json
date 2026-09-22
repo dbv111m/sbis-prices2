@@ -1,0 +1,3332 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Market_base",
+      "price": "11 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_opt",
+      "price": "15 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_500",
+      "price": "7 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_1000",
+      "price": "12 500",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_5000",
+      "price": "19 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Market_250K",
+      "price": "188 000",
+      "name": "Все маркетплейсы в одном окне"
+    },
+    {
+      "nomenclature_code": "Review",
+      "price": "8 000",
+      "name": "Все маркетплейсы в одном окне"
+    }
+  ]
+}

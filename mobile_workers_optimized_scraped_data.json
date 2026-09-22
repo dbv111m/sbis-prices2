@@ -1,0 +1,4682 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "ETRN_1000",
+      "price": "5 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_3000",
+      "price": "13 500",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_5000",
+      "price": "20 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_10000",
+      "price": "35 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "ETRN_50000",
+      "price": "150 000",
+      "name": "Документы"
+    },
+    {
+      "nomenclature_code": "Waybills",
+      "price": "18 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Logistic",
+      "price": "35 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Waybills_1",
+      "price": "6 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applications",
+      "price": "11 000",
+      "name": "Управление транспортом"
+    },
+    {
+      "nomenclature_code": "Applic_Stock",
+      "price": "17 000",
+      "name": "Заявки, наряды, касса и склад"
+    }
+  ]
+}

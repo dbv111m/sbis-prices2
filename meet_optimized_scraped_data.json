@@ -1,0 +1,7382 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Video_meeting",
+      "price": "30 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "AddUsers10",
+      "price": "7 200",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers50",
+      "price": "33 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers100",
+      "price": "60 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "AddUsers500",
+      "price": "275 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add10",
+      "price": "3 600",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add50",
+      "price": "16 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add100",
+      "price": "30 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Meet_add500",
+      "price": "137 500",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "webinar",
+      "price": "15 000",
+      "name": "500"
+    },
+    {
+      "nomenclature_code": "Webinar50",
+      "price": "12 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar100",
+      "price": "20 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Webinar500",
+      "price": "55 000",
+      "name": "+500"
+    },
+    {
+      "nomenclature_code": "Web_add1",
+      "price": "24 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add2",
+      "price": "44 900",
+      "name": "+5"
+    },
+    {
+      "nomenclature_code": "Web_add5",
+      "price": "99 900",
+      "name": "+5"
+    }
+  ]
+}

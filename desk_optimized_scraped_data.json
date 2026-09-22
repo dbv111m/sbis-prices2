@@ -1,0 +1,6482 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "helpdesk",
+      "price": "25 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Cloud_ATS",
+      "price": "10 000",
+      "name": ""
+    },
+    {
+      "nomenclature_code": "Ext_Number",
+      "price": "1 500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Int_Number",
+      "price": "800",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Call_Group",
+      "price": "500",
+      "name": "Внутренний"
+    },
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "remote",
+      "price": "6 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remote_prof",
+      "price": "10 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "remote_1",
+      "price": "4 000",
+      "name": "один администратор"
+    },
+    {
+      "nomenclature_code": "Remoteprof_1",
+      "price": "6 000",
+      "name": "один администратор"
+    }
+  ]
+}

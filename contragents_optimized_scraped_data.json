@@ -1,0 +1,6032 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Comp_S",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K",
+      "price": "19 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_M",
+      "price": "38 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_add",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API",
+      "price": "67 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_K_API",
+      "price": "175 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Comp_API_M",
+      "price": "250 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Verify100",
+      "price": "10 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify500",
+      "price": "43 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify1000",
+      "price": "77 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api100",
+      "price": "100 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api500",
+      "price": "250 000",
+      "name": "1 000"
+    },
+    {
+      "nomenclature_code": "Verify_api1000",
+      "price": "400 000",
+      "name": "1 000"
+    }
+  ]
+}

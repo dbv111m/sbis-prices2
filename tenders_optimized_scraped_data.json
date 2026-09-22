@@ -1,0 +1,3332 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Torg_Bas",
+      "price": "21 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "EOeSBIS_T",
+      "price": "29 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_Max",
+      "price": "45 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Trade_add",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "realiz_base",
+      "price": "9 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torgi_SBIS",
+      "price": "6 000",
+      "name": "один пользователь"
+    },
+    {
+      "nomenclature_code": "Torg_API",
+      "price": "55 000",
+      "name": "один пользователь"
+    }
+  ]
+}

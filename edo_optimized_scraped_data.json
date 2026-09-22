@@ -33,7 +33,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -108,17 +108,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Санкт-Петербург": [
@@ -155,7 +155,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -230,17 +230,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Адыгея": [
@@ -277,7 +277,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -352,17 +352,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Башкортостан": [
@@ -399,7 +399,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -474,17 +474,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Бурятия": [
@@ -521,7 +521,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -596,17 +596,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Алтай": [
@@ -643,7 +643,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -718,17 +718,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Дагестан": [
@@ -765,7 +765,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -840,17 +840,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Ингушетия": [
@@ -887,7 +887,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -962,17 +962,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Респ. Кабардино-Балкарская": [
@@ -1009,7 +1009,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1084,17 +1084,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Калмыкия": [
@@ -1131,7 +1131,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1206,17 +1206,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Респ. Карачаево-Черкесская": [
@@ -1253,7 +1253,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1328,17 +1328,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Карелия": [
@@ -1375,7 +1375,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1450,17 +1450,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Коми": [
@@ -1497,7 +1497,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1572,17 +1572,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Марий Эл": [
@@ -1619,7 +1619,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1694,17 +1694,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Мордовия": [
@@ -1741,7 +1741,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1816,17 +1816,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Саха (Якутия)": [
@@ -1863,7 +1863,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -1938,17 +1938,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Северная Осетия - Алания": [
@@ -1985,7 +1985,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2060,17 +2060,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Татарстан": [
@@ -2107,7 +2107,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2182,17 +2182,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Тыва": [
@@ -2229,7 +2229,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2304,17 +2304,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Удмуртская Республика": [
@@ -2351,7 +2351,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2426,17 +2426,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Хакасия": [
@@ -2473,7 +2473,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2548,17 +2548,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Чечня": [
@@ -2595,7 +2595,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2670,17 +2670,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Чувашия": [
@@ -2717,7 +2717,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2792,17 +2792,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Алтайский край": [
@@ -2839,7 +2839,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -2914,17 +2914,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Краснодарский край": [
@@ -2961,7 +2961,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3036,17 +3036,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Красноярский край": [
@@ -3083,7 +3083,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3158,17 +3158,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Приморский край": [
@@ -3205,7 +3205,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3280,17 +3280,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ставропольский край": [
@@ -3327,7 +3327,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3402,17 +3402,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Хабаровский край": [
@@ -3449,7 +3449,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3524,17 +3524,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Амурская обл.": [
@@ -3571,7 +3571,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3646,17 +3646,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Архангельская обл.": [
@@ -3693,7 +3693,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3768,17 +3768,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Астраханская обл.": [
@@ -3815,7 +3815,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -3890,17 +3890,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Белгородская обл.": [
@@ -3937,7 +3937,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4012,17 +4012,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Брянская обл.": [
@@ -4059,7 +4059,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4134,17 +4134,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Владимирская обл.": [
@@ -4181,7 +4181,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4256,17 +4256,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Волгоградская обл.": [
@@ -4303,7 +4303,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4378,17 +4378,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Вологодская обл.": [
@@ -4425,7 +4425,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4500,17 +4500,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Воронежская обл.": [
@@ -4547,7 +4547,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4622,17 +4622,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ивановская обл.": [
@@ -4669,7 +4669,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4744,17 +4744,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Иркутская обл.": [
@@ -4791,7 +4791,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4866,17 +4866,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Калининградская обл.": [
@@ -4913,7 +4913,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -4988,17 +4988,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Калужская обл.": [
@@ -5035,7 +5035,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5110,17 +5110,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Камчатский край": [
@@ -5157,7 +5157,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5232,17 +5232,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Кемеровская обл.": [
@@ -5279,7 +5279,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5354,17 +5354,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Кировская обл.": [
@@ -5401,7 +5401,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5476,17 +5476,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Костромская обл.": [
@@ -5523,7 +5523,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5598,17 +5598,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Курганская обл.": [
@@ -5645,7 +5645,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5720,17 +5720,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Курская обл.": [
@@ -5767,7 +5767,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5842,17 +5842,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ленинградская обл.": [
@@ -5889,7 +5889,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -5964,17 +5964,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Липецкая обл.": [
@@ -6011,7 +6011,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6086,17 +6086,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Магаданская обл.": [
@@ -6133,7 +6133,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6208,17 +6208,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Московская обл.": [
@@ -6255,7 +6255,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6330,17 +6330,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Мурманская обл.": [
@@ -6377,7 +6377,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6452,17 +6452,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Нижегородская обл.": [
@@ -6499,7 +6499,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6574,17 +6574,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Новгородская обл.": [
@@ -6621,7 +6621,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6696,17 +6696,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Новосибирская обл.": [
@@ -6743,7 +6743,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6818,17 +6818,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Омская обл.": [
@@ -6865,7 +6865,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -6940,17 +6940,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Оренбургская обл.": [
@@ -6987,7 +6987,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7062,17 +7062,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Орловская обл.": [
@@ -7109,7 +7109,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7184,17 +7184,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Пензенская обл.": [
@@ -7231,7 +7231,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7306,17 +7306,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Пермский край": [
@@ -7353,7 +7353,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7428,17 +7428,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Псковская обл.": [
@@ -7475,7 +7475,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7550,17 +7550,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ростовская обл.": [
@@ -7597,7 +7597,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7672,17 +7672,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Рязанская обл.": [
@@ -7719,7 +7719,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7794,17 +7794,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Самарская обл.": [
@@ -7841,7 +7841,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -7916,17 +7916,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Тольятти": [
@@ -7963,7 +7963,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8038,17 +8038,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Саратовская обл.": [
@@ -8085,7 +8085,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8160,17 +8160,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Сахалинская обл.": [
@@ -8207,7 +8207,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8282,17 +8282,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Свердловская обл.": [
@@ -8329,7 +8329,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8404,17 +8404,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Смоленская обл.": [
@@ -8451,7 +8451,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8526,17 +8526,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Тамбовская обл.": [
@@ -8573,7 +8573,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8648,17 +8648,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Тверская обл.": [
@@ -8695,7 +8695,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8770,17 +8770,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Томская обл.": [
@@ -8817,7 +8817,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -8892,17 +8892,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Тульская обл.": [
@@ -8939,7 +8939,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9014,17 +9014,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Тюменская обл.": [
@@ -9061,7 +9061,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9136,17 +9136,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ульяновская обл.": [
@@ -9183,7 +9183,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9258,17 +9258,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Челябинская обл.": [
@@ -9305,7 +9305,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9380,17 +9380,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Забайкальский край": [
@@ -9427,7 +9427,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9502,17 +9502,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ярославская обл.": [
@@ -9549,7 +9549,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9624,17 +9624,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Еврейская АО": [
@@ -9671,7 +9671,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9746,17 +9746,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ненецкий АО": [
@@ -9793,7 +9793,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9868,17 +9868,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ханты-Мансийский АО": [
@@ -9915,7 +9915,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -9990,17 +9990,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Чукотский АО": [
@@ -10037,7 +10037,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10112,17 +10112,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Ямало-Ненецкий АО": [
@@ -10159,7 +10159,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10234,17 +10234,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Запорожская обл.": [
@@ -10281,7 +10281,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10356,17 +10356,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Республика Крым": [
@@ -10403,7 +10403,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10478,17 +10478,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Севастополь": [
@@ -10525,7 +10525,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10600,17 +10600,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Донецкая нар. респ.": [
@@ -10647,7 +10647,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10722,17 +10722,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Луганская нар. респ.": [
@@ -10769,7 +10769,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10844,17 +10844,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ],
   "Херсонская обл.": [
@@ -10891,7 +10891,7 @@
     {
       "nomenclature_code": "form",
       "price": "5 000",
-      "name": "Кастомизация документа"
+      "name": "Автосверка расчетов"
     },
     {
       "nomenclature_code": "EIS",
@@ -10966,17 +10966,17 @@
     {
       "nomenclature_code": "EDO_BP",
       "price": "9 000",
-      "name": "Внутренний документооборот"
+      "name": "Документы"
     },
     {
       "nomenclature_code": "format",
       "price": "38 000",
-      "name": ""
+      "name": "Персональный формат"
     },
     {
       "nomenclature_code": "Input_form",
       "price": "125 000",
-      "name": ""
+      "name": "Онлайн‑форма ввода документа на вашем сайте"
     }
   ]
 }

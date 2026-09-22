@@ -1,0 +1,2432 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Video_Mon",
+      "price": "5 000",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_15",
+      "price": "6 200",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_30",
+      "price": "9 400",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_60",
+      "price": "16 300",
+      "name": "Срок хранения"
+    },
+    {
+      "nomenclature_code": "Video_90",
+      "price": "22 000",
+      "name": "Срок хранения"
+    }
+  ]
+}
