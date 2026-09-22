@@ -128,6 +128,8 @@ python analyze_prices.py --save-clusters region_clusters.json
 - `optimized_scraper.py`: Playwright-скрапер (fallback, собирает имена услуг с сайта).
 - `generate_reports.py`: Отчёты CSV/Excel с группами услуг.
 - `analyze_prices.py`: Анализ единообразия цен и кластеров регионов.
+- `find_price.py`: Офлайн-поиск цен по городу и названию услуги в скачанных данных.
+- `.zcode/skills/find-price/`: Скилл ZCode для поиска цен (описание команд, инсайты, кластеры).
 - `regions.json`: Справочник регионов (90 шт., коды + названия).
 - `nomenclature_map.json`: Расшифровка кодов: названия, группы, порядок групп.
 - `region_clusters.json`: Карта кластеров регионов с идентичными ценами.
