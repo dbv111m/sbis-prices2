@@ -1,18 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Окружение и инструменты
 .aider*
 .env
-old
-scraped_data.json
-combined_scraped_data.json
-enhanced_combined_scraped_data.json
-sbis_prices.json
-optimized_scraped_data.json
-nomenclature_prices_report.csv
-nomenclature_prices_report.xlsx
-enhanced_combined_scraped_data.json
-enhanced_combined_scraped_data.json
-enhanced_combined_scraped_data.json
-enhanced_combined_scraped_data.json
-edo_nomenclature_prices_report.csv
-.gitignore
-.gitignore
-.gitignore
+
+# Устаревшие скрипты
+old/
+
+# Примечание: собранные данные (*.json) и отчеты (*.csv, *.xlsx)
+# намеренно публикуются в репозитории — секретного в них нет.

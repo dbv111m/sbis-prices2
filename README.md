@@ -49,27 +49,55 @@ playwright install
 Для сбора данных о ценах запустите скрипт `optimized_scraper.py`.
 
 ```bash
+# Вкладка data_exchange (по умолчанию), все регионы, headless-режим
 python optimized_scraper.py
+
+# Вкладка edo (также доступны: ereport, added, data_exchange)
+python optimized_scraper.py --tab edo
+
+# Показать окно браузера (для отладки)
+python optimized_scraper.py --tab edo --visible
 ```
 
-Скрипт последовательно обойдет все регионы, указанные в `regions.json`, и сохранит собранные данные в файл `optimized_scraped_data.json`.
+Основные параметры:
+
+| Параметр | Описание | По умолчанию |
+|---|---|---|
+| `--tab` | Вкладка тарифов: `edo`, `ereport`, `added`, `data_exchange` | `data_exchange` |
+| `--output` | Имя выходного JSON-файла | `{tab}_optimized_scraped_data.json` |
+| `--limit N` | Обработать только первые N регионов (для тестирования) | все регионы |
+| `--max-retries N` | Число попыток на регион при ошибке | `2` |
+| `--visible` | Показывать окно браузера | headless |
+| `--regions-file` | Путь к файлу регионов | `regions.json` |
+
+Скрипт последовательно обойдет все регионы из `regions.json`, при сбоях повторит попытку и сохранит данные в JSON-файл.
 
 ### 2. Создание отчетов
 
-После успешного завершения скрапинга, запустите скрипт `generate_reports.py` для создания отчетов.
+После завершения скрапинга запустите `generate_reports.py`:
 
 ```bash
+# Из файла по умолчанию -> nomenclature_prices_report.csv/.xlsx
 python generate_reports.py
+
+# Из данных вкладки edo -> edo_nomenclature_prices_report.csv/.xlsx
+python generate_reports.py --input edo_optimized_scraped_data.json
+
+# С явным префиксом имени отчета
+python generate_reports.py --input data.json --prefix my_report
 ```
 
-Этот скрипт обработает данные из `optimized_scraped_data.json` и создаст два файла в корневой папке проекта:
-- `nomenclature_prices_report.csv` — отчет в формате CSV.
-- `nomenclature_prices_report.xlsx` — отчет в формате Excel.
+Префикс имен отчетов определяется автоматически из имени входного файла:
+`edo_optimized_scraped_data.json` → `edo_nomenclature_prices_report.csv` / `.xlsx`.
+
+Полученная таблица: строки — номенклатуры, столбцы — регионы.
 
 ## 📁 Структура проекта
 
 - `optimized_scraper.py`: Основной скрипт для сбора данных с сайта.
 - `generate_reports.py`: Скрипт для создания отчетов из собранных данных.
 - `regions.json`: Файл с перечнем регионов для парсинга.
-- `requirements.txt`: Список зависимостей Python.
-- `.gitignore`: Файл для исключения определенных файлов и папок из контроля версий Git.
+- `requirements.txt`: Список зависимостей Python с зафиксированными версиями.
+- `{tab}_optimized_scraped_data.json`: Собранные данные по вкладке тарифов (например, `edo_...`, `ereport_...`).
+- `{tab}_nomenclature_prices_report.csv` / `.xlsx`: Готовые отчеты по вкладке тарифов.
+- `.gitignore`: Файл для исключения определенных файлов и папок из контроля версий Git (данные и отчеты публиковались намеренно).
