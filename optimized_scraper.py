@@ -59,6 +59,11 @@ def parse_args():
         help="Обработать только первые N регионов (для тестирования)",
     )
     parser.add_argument(
+        "--regions",
+        default=None,
+        help="Обработать только регионы с указанными кодами через запятую (например: 77,78,54,66,16)",
+    )
+    parser.add_argument(
         "--max-retries",
         type=int,
         default=2,
@@ -177,12 +182,36 @@ def parse_nomenclature_prices(playwright, regions, tab, headless, max_retries):
         browser.close()
 
 
+def normalize_region_code(code):
+    """Приводит код региона к виду без ведущих нулей ("02" -> "2")."""
+    try:
+        return str(int(code))
+    except (TypeError, ValueError):
+        return str(code).strip()
+
+
+def filter_regions(regions, codes):
+    """Оставляет только регионы с указанными кодами."""
+    wanted = {normalize_region_code(c) for c in codes.split(",") if c.strip()}
+    filtered = [r for r in regions if normalize_region_code(r["id"]) in wanted]
+    found = {normalize_region_code(r["id"]) for r in filtered}
+    missing = wanted - found
+    if missing:
+        print(f"Внимание: коды не найдены в справочнике регионов: {', '.join(sorted(missing))}")
+    return filtered
+
+
 def main():
     args = parse_args()
 
     regions = load_regions(args.regions_file)
     if not regions:
         sys.exit(1)
+    if args.regions:
+        regions = filter_regions(regions, args.regions)
+        if not regions:
+            print("Не выбран ни один регион.")
+            sys.exit(1)
     if args.limit is not None:
         regions = regions[: max(0, args.limit)]
 

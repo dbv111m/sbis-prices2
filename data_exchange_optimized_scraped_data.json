@@ -1,0 +1,292 @@
+{
+  "Москва": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500"
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500"
+    }
+  ],
+  "Республика Татарстан": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500"
+    }
+  ],
+  "Новосибирская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500"
+    }
+  ],
+  "Свердловская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500"
+    }
+  ]
+}

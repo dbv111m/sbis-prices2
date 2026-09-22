@@ -66,6 +66,7 @@ python optimized_scraper.py --tab edo --visible
 | `--tab` | Вкладка тарифов: `edo`, `ereport`, `added`, `data_exchange` | `data_exchange` |
 | `--output` | Имя выходного JSON-файла | `{tab}_optimized_scraped_data.json` |
 | `--limit N` | Обработать только первые N регионов (для тестирования) | все регионы |
+| `--regions 77,78,54` | Обработать только регионы с указанными кодами | все регионы |
 | `--max-retries N` | Число попыток на регион при ошибке | `2` |
 | `--visible` | Показывать окно браузера | headless |
 | `--regions-file` | Путь к файлу регионов | `regions.json` |
