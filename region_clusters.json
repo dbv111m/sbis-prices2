@@ -1,0 +1,548 @@
+[
+  {
+    "cluster": 1,
+    "representative": "Донецкая нар. респ.",
+    "regions": [
+      "Донецкая нар. респ.",
+      "Запорожская обл.",
+      "Луганская нар. респ.",
+      "Херсонская обл."
+    ]
+  },
+  {
+    "cluster": 2,
+    "representative": "Респ. Кабардино-Балкарская",
+    "regions": [
+      "Респ. Кабардино-Балкарская",
+      "Респ. Карачаево-Черкесская"
+    ]
+  },
+  {
+    "cluster": 3,
+    "representative": "Мурманская обл.",
+    "regions": [
+      "Мурманская обл.",
+      "Республика Карелия"
+    ]
+  },
+  {
+    "cluster": 4,
+    "representative": "Республика Татарстан",
+    "regions": [
+      "Республика Татарстан",
+      "Саратовская обл."
+    ]
+  },
+  {
+    "cluster": 5,
+    "representative": "Оренбургская обл.",
+    "regions": [
+      "Оренбургская обл.",
+      "Республика Тыва"
+    ]
+  },
+  {
+    "cluster": 6,
+    "representative": "Кировская обл.",
+    "regions": [
+      "Кировская обл.",
+      "Удмуртская Республика"
+    ]
+  },
+  {
+    "cluster": 7,
+    "representative": "Республика Чечня",
+    "regions": [
+      "Республика Чечня",
+      "Ставропольский край"
+    ]
+  },
+  {
+    "cluster": 8,
+    "representative": "Архангельская обл.",
+    "regions": [
+      "Архангельская обл.",
+      "Вологодская обл."
+    ]
+  },
+  {
+    "cluster": 9,
+    "representative": "Волгоградская обл.",
+    "regions": [
+      "Волгоградская обл.",
+      "Костромская обл."
+    ]
+  },
+  {
+    "cluster": 10,
+    "representative": "Камчатский край",
+    "regions": [
+      "Камчатский край",
+      "Сахалинская обл."
+    ]
+  },
+  {
+    "cluster": 11,
+    "representative": "Самарская обл.",
+    "regions": [
+      "Самарская обл.",
+      "Тольятти"
+    ]
+  },
+  {
+    "cluster": 12,
+    "representative": "Республика Крым",
+    "regions": [
+      "Республика Крым",
+      "Севастополь"
+    ]
+  },
+  {
+    "cluster": 13,
+    "representative": "Москва",
+    "regions": [
+      "Москва"
+    ]
+  },
+  {
+    "cluster": 14,
+    "representative": "Санкт-Петербург",
+    "regions": [
+      "Санкт-Петербург"
+    ]
+  },
+  {
+    "cluster": 15,
+    "representative": "Республика Адыгея",
+    "regions": [
+      "Республика Адыгея"
+    ]
+  },
+  {
+    "cluster": 16,
+    "representative": "Республика Башкортостан",
+    "regions": [
+      "Республика Башкортостан"
+    ]
+  },
+  {
+    "cluster": 17,
+    "representative": "Республика Бурятия",
+    "regions": [
+      "Республика Бурятия"
+    ]
+  },
+  {
+    "cluster": 18,
+    "representative": "Республика Алтай",
+    "regions": [
+      "Республика Алтай"
+    ]
+  },
+  {
+    "cluster": 19,
+    "representative": "Республика Дагестан",
+    "regions": [
+      "Республика Дагестан"
+    ]
+  },
+  {
+    "cluster": 20,
+    "representative": "Республика Ингушетия",
+    "regions": [
+      "Республика Ингушетия"
+    ]
+  },
+  {
+    "cluster": 21,
+    "representative": "Республика Калмыкия",
+    "regions": [
+      "Республика Калмыкия"
+    ]
+  },
+  {
+    "cluster": 22,
+    "representative": "Республика Коми",
+    "regions": [
+      "Республика Коми"
+    ]
+  },
+  {
+    "cluster": 23,
+    "representative": "Республика Марий Эл",
+    "regions": [
+      "Республика Марий Эл"
+    ]
+  },
+  {
+    "cluster": 24,
+    "representative": "Республика Мордовия",
+    "regions": [
+      "Республика Мордовия"
+    ]
+  },
+  {
+    "cluster": 25,
+    "representative": "Республика Саха (Якутия)",
+    "regions": [
+      "Республика Саха (Якутия)"
+    ]
+  },
+  {
+    "cluster": 26,
+    "representative": "Северная Осетия - Алания",
+    "regions": [
+      "Северная Осетия - Алания"
+    ]
+  },
+  {
+    "cluster": 27,
+    "representative": "Республика Хакасия",
+    "regions": [
+      "Республика Хакасия"
+    ]
+  },
+  {
+    "cluster": 28,
+    "representative": "Республика Чувашия",
+    "regions": [
+      "Республика Чувашия"
+    ]
+  },
+  {
+    "cluster": 29,
+    "representative": "Алтайский край",
+    "regions": [
+      "Алтайский край"
+    ]
+  },
+  {
+    "cluster": 30,
+    "representative": "Краснодарский край",
+    "regions": [
+      "Краснодарский край"
+    ]
+  },
+  {
+    "cluster": 31,
+    "representative": "Красноярский край",
+    "regions": [
+      "Красноярский край"
+    ]
+  },
+  {
+    "cluster": 32,
+    "representative": "Приморский край",
+    "regions": [
+      "Приморский край"
+    ]
+  },
+  {
+    "cluster": 33,
+    "representative": "Хабаровский край",
+    "regions": [
+      "Хабаровский край"
+    ]
+  },
+  {
+    "cluster": 34,
+    "representative": "Амурская обл.",
+    "regions": [
+      "Амурская обл."
+    ]
+  },
+  {
+    "cluster": 35,
+    "representative": "Астраханская обл.",
+    "regions": [
+      "Астраханская обл."
+    ]
+  },
+  {
+    "cluster": 36,
+    "representative": "Белгородская обл.",
+    "regions": [
+      "Белгородская обл."
+    ]
+  },
+  {
+    "cluster": 37,
+    "representative": "Брянская обл.",
+    "regions": [
+      "Брянская обл."
+    ]
+  },
+  {
+    "cluster": 38,
+    "representative": "Владимирская обл.",
+    "regions": [
+      "Владимирская обл."
+    ]
+  },
+  {
+    "cluster": 39,
+    "representative": "Воронежская обл.",
+    "regions": [
+      "Воронежская обл."
+    ]
+  },
+  {
+    "cluster": 40,
+    "representative": "Ивановская обл.",
+    "regions": [
+      "Ивановская обл."
+    ]
+  },
+  {
+    "cluster": 41,
+    "representative": "Иркутская обл.",
+    "regions": [
+      "Иркутская обл."
+    ]
+  },
+  {
+    "cluster": 42,
+    "representative": "Калининградская обл.",
+    "regions": [
+      "Калининградская обл."
+    ]
+  },
+  {
+    "cluster": 43,
+    "representative": "Калужская обл.",
+    "regions": [
+      "Калужская обл."
+    ]
+  },
+  {
+    "cluster": 44,
+    "representative": "Кемеровская обл.",
+    "regions": [
+      "Кемеровская обл."
+    ]
+  },
+  {
+    "cluster": 45,
+    "representative": "Курганская обл.",
+    "regions": [
+      "Курганская обл."
+    ]
+  },
+  {
+    "cluster": 46,
+    "representative": "Курская обл.",
+    "regions": [
+      "Курская обл."
+    ]
+  },
+  {
+    "cluster": 47,
+    "representative": "Ленинградская обл.",
+    "regions": [
+      "Ленинградская обл."
+    ]
+  },
+  {
+    "cluster": 48,
+    "representative": "Липецкая обл.",
+    "regions": [
+      "Липецкая обл."
+    ]
+  },
+  {
+    "cluster": 49,
+    "representative": "Магаданская обл.",
+    "regions": [
+      "Магаданская обл."
+    ]
+  },
+  {
+    "cluster": 50,
+    "representative": "Московская обл.",
+    "regions": [
+      "Московская обл."
+    ]
+  },
+  {
+    "cluster": 51,
+    "representative": "Нижегородская обл.",
+    "regions": [
+      "Нижегородская обл."
+    ]
+  },
+  {
+    "cluster": 52,
+    "representative": "Новгородская обл.",
+    "regions": [
+      "Новгородская обл."
+    ]
+  },
+  {
+    "cluster": 53,
+    "representative": "Новосибирская обл.",
+    "regions": [
+      "Новосибирская обл."
+    ]
+  },
+  {
+    "cluster": 54,
+    "representative": "Омская обл.",
+    "regions": [
+      "Омская обл."
+    ]
+  },
+  {
+    "cluster": 55,
+    "representative": "Орловская обл.",
+    "regions": [
+      "Орловская обл."
+    ]
+  },
+  {
+    "cluster": 56,
+    "representative": "Пензенская обл.",
+    "regions": [
+      "Пензенская обл."
+    ]
+  },
+  {
+    "cluster": 57,
+    "representative": "Пермский край",
+    "regions": [
+      "Пермский край"
+    ]
+  },
+  {
+    "cluster": 58,
+    "representative": "Псковская обл.",
+    "regions": [
+      "Псковская обл."
+    ]
+  },
+  {
+    "cluster": 59,
+    "representative": "Ростовская обл.",
+    "regions": [
+      "Ростовская обл."
+    ]
+  },
+  {
+    "cluster": 60,
+    "representative": "Рязанская обл.",
+    "regions": [
+      "Рязанская обл."
+    ]
+  },
+  {
+    "cluster": 61,
+    "representative": "Свердловская обл.",
+    "regions": [
+      "Свердловская обл."
+    ]
+  },
+  {
+    "cluster": 62,
+    "representative": "Смоленская обл.",
+    "regions": [
+      "Смоленская обл."
+    ]
+  },
+  {
+    "cluster": 63,
+    "representative": "Тамбовская обл.",
+    "regions": [
+      "Тамбовская обл."
+    ]
+  },
+  {
+    "cluster": 64,
+    "representative": "Тверская обл.",
+    "regions": [
+      "Тверская обл."
+    ]
+  },
+  {
+    "cluster": 65,
+    "representative": "Томская обл.",
+    "regions": [
+      "Томская обл."
+    ]
+  },
+  {
+    "cluster": 66,
+    "representative": "Тульская обл.",
+    "regions": [
+      "Тульская обл."
+    ]
+  },
+  {
+    "cluster": 67,
+    "representative": "Тюменская обл.",
+    "regions": [
+      "Тюменская обл."
+    ]
+  },
+  {
+    "cluster": 68,
+    "representative": "Ульяновская обл.",
+    "regions": [
+      "Ульяновская обл."
+    ]
+  },
+  {
+    "cluster": 69,
+    "representative": "Челябинская обл.",
+    "regions": [
+      "Челябинская обл."
+    ]
+  },
+  {
+    "cluster": 70,
+    "representative": "Забайкальский край",
+    "regions": [
+      "Забайкальский край"
+    ]
+  },
+  {
+    "cluster": 71,
+    "representative": "Ярославская обл.",
+    "regions": [
+      "Ярославская обл."
+    ]
+  },
+  {
+    "cluster": 72,
+    "representative": "Еврейская АО",
+    "regions": [
+      "Еврейская АО"
+    ]
+  },
+  {
+    "cluster": 73,
+    "representative": "Ненецкий АО",
+    "regions": [
+      "Ненецкий АО"
+    ]
+  },
+  {
+    "cluster": 74,
+    "representative": "Ханты-Мансийский АО",
+    "regions": [
+      "Ханты-Мансийский АО"
+    ]
+  },
+  {
+    "cluster": 75,
+    "representative": "Чукотский АО",
+    "regions": [
+      "Чукотский АО"
+    ]
+  },
+  {
+    "cluster": 76,
+    "representative": "Ямало-Ненецкий АО",
+    "regions": [
+      "Ямало-Ненецкий АО"
+    ]
+  }
+]
