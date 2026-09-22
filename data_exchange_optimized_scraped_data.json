@@ -2,291 +2,6481 @@
   "Москва": [
     {
       "nomenclature_code": "Marking",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_prof",
-      "price": "13 500"
+      "price": "13 500",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_ost",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка остатков"
     },
     {
       "nomenclature_code": "Mercury",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Egais",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Marking_f",
-      "price": "10 000"
+      "price": "10 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "Add_farma",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "dmdk",
-      "price": "15 000"
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
     },
     {
       "nomenclature_code": "Tracking",
-      "price": "5 500"
+      "price": "5 500",
+      "name": "Прослеживаемость"
     }
   ],
   "Санкт-Петербург": [
     {
       "nomenclature_code": "Marking",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_prof",
-      "price": "13 500"
+      "price": "13 500",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_ost",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка остатков"
     },
     {
       "nomenclature_code": "Mercury",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Egais",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Marking_f",
-      "price": "10 000"
+      "price": "10 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "Add_farma",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "dmdk",
-      "price": "15 000"
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
     },
     {
       "nomenclature_code": "Tracking",
-      "price": "5 500"
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Адыгея": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Башкортостан": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Бурятия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Алтай": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Дагестан": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Ингушетия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Респ. Кабардино-Балкарская": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Калмыкия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Респ. Карачаево-Черкесская": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Карелия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Коми": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Марий Эл": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Мордовия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Саха (Якутия)": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Северная Осетия - Алания": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
     }
   ],
   "Республика Татарстан": [
     {
       "nomenclature_code": "Marking",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_prof",
-      "price": "13 500"
+      "price": "13 500",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_ost",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка остатков"
     },
     {
       "nomenclature_code": "Mercury",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Egais",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Marking_f",
-      "price": "10 000"
+      "price": "10 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "Add_farma",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "dmdk",
-      "price": "15 000"
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
     },
     {
       "nomenclature_code": "Tracking",
-      "price": "5 500"
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Тыва": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Удмуртская Республика": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Хакасия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Чечня": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Чувашия": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Алтайский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Краснодарский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Красноярский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Приморский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ставропольский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Хабаровский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Амурская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Архангельская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Астраханская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Белгородская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Брянская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Владимирская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Волгоградская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Вологодская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Воронежская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ивановская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Иркутская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Калининградская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Калужская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Камчатский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Кемеровская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Кировская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Костромская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Курганская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Курская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ленинградская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Липецкая обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Магаданская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Московская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Мурманская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Нижегородская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Новгородская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
     }
   ],
   "Новосибирская обл.": [
     {
       "nomenclature_code": "Marking",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_prof",
-      "price": "13 500"
+      "price": "13 500",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_ost",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка остатков"
     },
     {
       "nomenclature_code": "Mercury",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Egais",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Marking_f",
-      "price": "10 000"
+      "price": "10 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "Add_farma",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "dmdk",
-      "price": "15 000"
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
     },
     {
       "nomenclature_code": "Tracking",
-      "price": "5 500"
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Омская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Оренбургская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Орловская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Пензенская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Пермский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Псковская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ростовская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Рязанская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Самарская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Тольятти": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Саратовская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Сахалинская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
     }
   ],
   "Свердловская обл.": [
     {
       "nomenclature_code": "Marking",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_prof",
-      "price": "13 500"
+      "price": "13 500",
+      "name": "Маркировка"
     },
     {
       "nomenclature_code": "Marking_ost",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка остатков"
     },
     {
       "nomenclature_code": "Mercury",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Mercury_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "Меркурий"
     },
     {
       "nomenclature_code": "Egais",
-      "price": "4 000"
+      "price": "4 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_opt",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Egais_prof",
-      "price": "8 500"
+      "price": "8 500",
+      "name": "ЕГАИС"
     },
     {
       "nomenclature_code": "Marking_f",
-      "price": "10 000"
+      "price": "10 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "Add_farma",
-      "price": "7 000"
+      "price": "7 000",
+      "name": "Маркировка лекарств"
     },
     {
       "nomenclature_code": "dmdk",
-      "price": "15 000"
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
     },
     {
       "nomenclature_code": "Tracking",
-      "price": "5 500"
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Смоленская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Тамбовская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Тверская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Томская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Тульская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Тюменская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ульяновская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Челябинская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Забайкальский край": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ярославская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Еврейская АО": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ненецкий АО": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ханты-Мансийский АО": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Чукотский АО": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Ямало-Ненецкий АО": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Запорожская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Республика Крым": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Севастополь": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Донецкая нар. респ.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Луганская нар. респ.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
+    }
+  ],
+  "Херсонская обл.": [
+    {
+      "nomenclature_code": "Marking",
+      "price": "4 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_opt",
+      "price": "7 000",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_prof",
+      "price": "13 500",
+      "name": "Маркировка"
+    },
+    {
+      "nomenclature_code": "Marking_ost",
+      "price": "7 000",
+      "name": "Маркировка остатков"
+    },
+    {
+      "nomenclature_code": "Mercury",
+      "price": "4 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_opt",
+      "price": "7 000",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Mercury_prof",
+      "price": "8 500",
+      "name": "Меркурий"
+    },
+    {
+      "nomenclature_code": "Egais",
+      "price": "4 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_opt",
+      "price": "7 000",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Egais_prof",
+      "price": "8 500",
+      "name": "ЕГАИС"
+    },
+    {
+      "nomenclature_code": "Marking_f",
+      "price": "10 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "Add_farma",
+      "price": "7 000",
+      "name": "Маркировка лекарств"
+    },
+    {
+      "nomenclature_code": "dmdk",
+      "price": "15 000",
+      "name": "Маркировка ювелирных изделий"
+    },
+    {
+      "nomenclature_code": "Tracking",
+      "price": "5 500",
+      "name": "Прослеживаемость"
     }
   ]
 }
